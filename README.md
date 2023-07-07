@@ -1,2 +1,2 @@
 # hello-world
-Proyectos Sistemas Operativos
+esta es una clase de sistemas operativos
